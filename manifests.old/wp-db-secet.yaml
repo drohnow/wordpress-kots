@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: wp-db-secret
-data:
-  MYSQL_ROOT_PASSWORD: VHJlazE1MTU=
