@@ -1,1 +1,1 @@
-# wordpress-kots
+# wordpress-replicated
