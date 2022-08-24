@@ -9,4 +9,4 @@ spec:
     app: wordpress
   ports:
     - port: 80
-      nodePort: repl{{ConfigOption "wordpress port"}}
+      nodePort: repl{{ ConfigOption "wp-port" }}

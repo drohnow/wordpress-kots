@@ -8,6 +8,6 @@ spec:
       title: Wordpress
       description: Wordpress 
       items:
-        - name: wordpress port
+        - name: wp-port
           title: wordpress port
           type: text
